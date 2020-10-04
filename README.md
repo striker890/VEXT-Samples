@@ -6,12 +6,12 @@ Sample VEXT mods for VU, some demonstrating various features and systems, and ot
 
 | Mod | Description |
 | --- | ----------- |
-| [battlefieldv](battlefieldv) | The true Battlefield™ V experience. Truly cinematic visuals and more explosions than ever before. What else could you want? |
+| [battlefieldv](battlefieldv) | The true Battlefieldâ„¢ V experience. Truly cinematic visuals and more explosions than ever before. What else could you want? |
 | [better-background](better-background) | Removes blue tint from the spawn menu and improves the OOB black-and-white effect. |
 | [bots](bots) | Dumb AI bots and a re-usable bot manager for your own mods. |
 | [console-demo](console-demo) | Demonstrates client-side console command registration and handling. |
 | [crater](crater) | Makes the craters created by explosions a lot bigger. |
-| [custom-soldier](customs-soldier) | Demonstrates creating a custom soldier blueprint with custom soldier data. |
+| [custom-soldier](custom-soldier) | Demonstrates creating a custom soldier blueprint with custom soldier data. |
 | [debug-messages](debug-messages) | Prints all Frostbite engine messages. |
 | [debug-screen-push](debug-screen-push) | Prints all the UI screens the engine creates / pushes. |
 | [drivable-ac](drivable-ac) | Makes the AC130 drivable. |
